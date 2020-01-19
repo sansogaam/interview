@@ -121,4 +121,15 @@ public class TradeValidatorTest {
         assertFalse(validated);
     }
 
+    @Test
+    public void testMaturityDateTest(){
+        Builder builder = new TradeBuilder();
+        Trade tradeToBeAdded = builder.buildTrade()
+                .withTradeId("T-1")
+                .withVersion(2)
+                .withCounterPartyId("CP-1")
+                .withMaturityDate(new Date())
+                .withCreatedDate(new Date()).build();
+    }
+
 }

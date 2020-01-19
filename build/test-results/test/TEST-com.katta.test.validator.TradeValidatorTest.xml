@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.katta.test.validator.TradeValidatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-19T15:02:49" hostname="DESKTOP-DHIESSE" time="0.002">
+<testsuite name="com.katta.test.validator.TradeValidatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-19T16:16:57" hostname="DESKTOP-DHIESSE" time="0.002">
   <properties/>
-  <testcase name="testValidateVersionForEmptyTradeIds" classname="com.katta.test.validator.TradeValidatorTest" time="0.002"/>
+  <testcase name="testMaturityDateTest" classname="com.katta.test.validator.TradeValidatorTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -6,5 +6,5 @@ import java.util.List;
 
 public interface Validator {
     boolean validateVersion(Trade tradeToBeAdded , List<Trade> sameTradeIds);
-    boolean validateMaturityDate();
+    boolean validateMaturityDate(Trade tradeToBeAdded);
 }

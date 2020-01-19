@@ -2,6 +2,7 @@ package com.katta.test.validator;
 
 import com.katta.test.model.Trade;
 
+import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -23,7 +24,10 @@ public class TradeValidator implements Validator{
     }
 
     @Override
-    public boolean validateMaturityDate() {
+    public boolean validateMaturityDate(Trade tradeToBeAdded) {
+        if(new Date().before(tradeToBeAdded.getMaturityDate())){
+            return true;
+        }
         return false;
     }
 }
