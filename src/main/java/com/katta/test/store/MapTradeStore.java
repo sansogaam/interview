@@ -9,9 +9,11 @@ public class MapTradeStore implements TradeStore {
 
     Map<String, Trade > mapofTrades = new HashMap<String, Trade>();
 
+
     @Override
     public void storeTrade(Trade trade) {
-         mapofTrades.put("1", trade);
+
+         mapofTrades.put(trade.getTradeId()+"-" + trade.getVersion(), trade);
     }
 
     @Override

@@ -7,7 +7,7 @@ import java.util.Date;
 public class TradeBuilder implements Builder{
 
     private String tradeId;
-    private String version;
+    private int version;
     private String bookId;
     private String counterPartyId;
     private Date createdDate;
@@ -19,7 +19,7 @@ public class TradeBuilder implements Builder{
         return  this;
     }
 
-    public TradeBuilder withVersion(String version){
+    public TradeBuilder withVersion(int version){
         this.version = version;
         return this;
     }

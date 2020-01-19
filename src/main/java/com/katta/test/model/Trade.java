@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Trade {
     private String tradeId;
-    private String version;
+    private int version;
     private String bookId;
     private String counterPartyId;
     private Date createdDate;
@@ -20,11 +20,11 @@ public class Trade {
         this.tradeId = tradeId;
     }
 
-    public String getVersion() {
+    public int getVersion() {
         return version;
     }
 
-    public void setVersion(String version) {
+    public void setVersion(int version) {
         this.version = version;
     }
 

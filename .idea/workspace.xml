@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98b284d7-3f26-4390-807a-7dbbdd9530a5" name="Default Changelist" comment="" />
+    <list default="true" id="98b284d7-3f26-4390-807a-7dbbdd9530a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/katta/test/validator/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/katta/test/model/Trade.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/katta/test/model/Trade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/katta/test/store/MapTradeStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/katta/test/store/MapTradeStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/katta/test/builder/TradeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/katta/test/builder/TradeBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/katta/test/store/MapTradeStoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/katta/test/store/MapTradeStoreTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.katta.test.store.MapTradeStoreTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.katta.test.store.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.katta.test.store.MapTradeStoreTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/katta/test/model/Trade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/katta/test/model/Trade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/katta/test/store/MapTradeStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/katta/test/store/MapTradeStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/katta/test/builder/TradeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/katta/test/builder/TradeBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/katta/test/store/MapTradeStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/katta/test/store/MapTradeStoreTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -21,13 +53,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/katta/test/model/Trade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="265">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
               <folding>
                 <element signature="e#295#296#0" expanded="true" />
                 <element signature="e#325#326#0" expanded="true" />
@@ -66,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/katta/test/store/TradeStore.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,23 +119,66 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/katta/test/store/MapTradeStore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#169#184#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
                 <element signature="e#434#435#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/validator/Validator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#790#791#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/store/MapTradeStoreTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="18" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,7 +190,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/builder/Builder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -113,22 +198,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/builder/TradeBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="12" selection-end-line="15" />
+            <state relative-caret-position="17">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#344#345#0" expanded="true" />
                 <element signature="e#369#370#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -139,21 +215,28 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/com/katta/test/builder/Builder.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/katta/test/builder/TradeBuilder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/katta/test/model/Trade.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/katta/test/store/TradeStore.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/katta/test/validator/VersionValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/katta/test/store/MapTradeStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/katta/test/model/Trade.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/katta/test/builder/TradeBuilder.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/katta/test/store/MapTradeStoreTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/katta/test/validator/Validator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidatorTest.java" />
       </list>
     </option>
   </component>
@@ -163,6 +246,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -215,7 +299,7 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,12 +309,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.katta.test.validator" />
       <recent name="com.katta.test.store" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -252,13 +338,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.MapTradeStoreTest">
-    <configuration name="MapTradeStoreTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.TradeValidatorTest.testValidateVersionForStoredHigherVersionTradeIds">
+    <configuration name="MapTradeStoreTest.storeTradeObjectAndCheckItsDetail" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.katta.test.store.MapTradeStoreTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.katta.test.store.MapTradeStoreTest.storeTradeObjectAndCheckItsDetail&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -273,12 +359,72 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MapTradeStoreTest.storeTrade" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TradeValidatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.katta.test.store.MapTradeStoreTest.storeTrade&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.katta.test.validator.TradeValidatorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TradeValidatorTest.testValidateVersion" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.katta.test.validator.TradeValidatorTest.testValidateVersion&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TradeValidatorTest.testValidateVersionForStoredHigherVersionTradeIds" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.katta.test.validator.TradeValidatorTest.testValidateVersionForStoredHigherVersionTradeIds&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TradeValidatorTest.testValidateVersionForStoredLessVersionTradeIds" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.katta.test.validator.TradeValidatorTest.testValidateVersionForStoredLessVersionTradeIds&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -295,8 +441,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MapTradeStoreTest" />
-        <item itemvalue="Gradle.MapTradeStoreTest.storeTrade" />
+        <item itemvalue="Gradle.TradeValidatorTest.testValidateVersionForStoredHigherVersionTradeIds" />
+        <item itemvalue="Gradle.TradeValidatorTest.testValidateVersionForStoredLessVersionTradeIds" />
+        <item itemvalue="Gradle.TradeValidatorTest" />
+        <item itemvalue="Gradle.TradeValidatorTest.testValidateVersion" />
+        <item itemvalue="Gradle.MapTradeStoreTest.storeTradeObjectAndCheckItsDetail" />
       </list>
     </recent_temporary>
   </component>
@@ -314,21 +463,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MapTradeStoreTest - 2020.01.18 at 17h 03m 54s.xml">
-      <configuration name="MapTradeStoreTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="MapTradeStoreTest_storeTradeObjectAndCheckItsDetail - 2020.01.19 at 11h 52m 09s.xml">
+      <configuration name="MapTradeStoreTest.storeTradeObjectAndCheckItsDetail" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="MapTradeStoreTest - 2020.01.18 at 17h 36m 36s.xml">
-      <configuration name="MapTradeStoreTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="MapTradeStoreTest_storeTradeObjectAndCheckItsDetail - 2020.01.19 at 11h 58m 47s.xml">
+      <configuration name="MapTradeStoreTest.storeTradeObjectAndCheckItsDetail" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="MapTradeStoreTest_storeTrade - 2020.01.18 at 17h 41m 09s.xml">
-      <configuration name="MapTradeStoreTest.storeTrade" configurationId="GradleRunConfiguration" />
+    <history-entry file="MapTradeStoreTest_storeTradeObjectAndCheckItsDetail - 2020.01.19 at 17h 34m 39s.xml">
+      <configuration name="MapTradeStoreTest.storeTradeObjectAndCheckItsDetail" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="MapTradeStoreTest - 2020.01.18 at 18h 02m 49s.xml">
-      <configuration name="MapTradeStoreTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="TradeValidatorTest_testValidateVersion - 2020.01.19 at 17h 56m 57s.xml">
+      <configuration name="TradeValidatorTest.testValidateVersion" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TradeValidatorTest_testValidateVersion - 2020.01.19 at 17h 57m 46s.xml">
+      <configuration name="TradeValidatorTest.testValidateVersion" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TradeValidatorTest_testValidateVersionForStoredLessVersionTradeIds - 2020.01.19 at 18h 18m 19s.xml">
+      <configuration name="TradeValidatorTest.testValidateVersionForStoredLessVersionTradeIds" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TradeValidatorTest_testValidateVersionForStoredLessVersionTradeIds - 2020.01.19 at 18h 45m 41s.xml">
+      <configuration name="TradeValidatorTest.testValidateVersionForStoredLessVersionTradeIds" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TradeValidatorTest - 2020.01.19 at 18h 46m 23s.xml">
+      <configuration name="TradeValidatorTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TradeValidatorTest_testValidateVersionForStoredLessVersionTradeIds - 2020.01.19 at 18h 46m 48s.xml">
+      <configuration name="TradeValidatorTest.testValidateVersionForStoredLessVersionTradeIds" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TradeValidatorTest_testValidateVersionForStoredLessVersionTradeIds - 2020.01.19 at 18h 48m 25s.xml">
+      <configuration name="TradeValidatorTest.testValidateVersionForStoredLessVersionTradeIds" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -345,7 +513,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -362,25 +530,59 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidatorTest.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidator.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidatorTest.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/builder/Builder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/katta/test/store/TradeStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/builder/TradeBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="12" selection-end-line="15" />
+        <state relative-caret-position="17">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
@@ -389,10 +591,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/store/MapTradeStoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="18" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/katta/test/model/Trade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="265">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
           <folding>
             <element signature="e#295#296#0" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />
@@ -428,34 +640,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/katta/test/store/MapTradeStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#169#184#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
             <element signature="e#434#435#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/katta/test/store/TradeStore.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/validator/Validator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/store/MapTradeStoreTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/katta/test/validator/TradeValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
         </state>
       </provider>
     </entry>

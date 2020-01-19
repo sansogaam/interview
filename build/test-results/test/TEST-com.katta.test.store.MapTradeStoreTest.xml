@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.katta.test.store.MapTradeStoreTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-18T12:32:48" hostname="DESKTOP-DHIESSE" time="0.016">
-  <properties/>
-  <testcase name="storeFirstTradeObject" classname="com.katta.test.store.MapTradeStoreTest" time="0.016"/>
-  <system-out><![CDATA[Trade{tradeId='T-1', version='V1', bookId='null', counterPartyId='CP-1', createdDate=Sat Jan 18 18:02:48 IST 2020, maturityDate=null, expired=false}
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
