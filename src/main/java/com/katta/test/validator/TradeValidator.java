@@ -13,7 +13,7 @@ public class TradeValidator implements Validator{
             return true;
         }else{
             List<Trade> higherVersionTradeIdsExist = sameTradeIds.stream()
-                    .filter(trade -> trade.getVersion() > tradeToBeAdded.getVersion())
+                    .filter(trade -> trade.getVersion() >= tradeToBeAdded.getVersion())
                     .collect(Collectors.toList());
             if(higherVersionTradeIdsExist.isEmpty()){
                 return true;

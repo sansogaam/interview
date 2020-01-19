@@ -90,4 +90,35 @@ public class TradeValidatorTest {
         //Then
         assertFalse(validated);
     }
+    @Test
+    public void testValidateVersionForStoredSameVersionTradeId(){
+        //Given
+        Builder builder = new TradeBuilder();
+        Trade tradeToBeAdded = builder.buildTrade()
+                .withTradeId("T-1")
+                .withVersion(2)
+                .withCounterPartyId("CP-1")
+                .withCreatedDate(new Date()).build();
+
+        Trade trade1 = builder.buildTrade()
+                .withTradeId("T-1")
+                .withVersion(1)
+                .withCounterPartyId("CP-1")
+                .withCreatedDate(new Date()).build();
+
+        Trade trade2 = builder.buildTrade()
+                .withTradeId("T-1")
+                .withVersion(2)
+                .withCounterPartyId("CP-1")
+                .withCreatedDate(new Date()).build();
+
+        List<Trade> sameTradeIds = Arrays.asList(trade1, trade2);
+
+        //When
+        Validator validator = new TradeValidator();
+        boolean validated = validator.validateVersion(tradeToBeAdded, sameTradeIds);
+        //Then
+        assertFalse(validated);
+    }
+
 }
